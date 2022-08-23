@@ -5,3 +5,4 @@ This is where Pinch Analysis comes in place. In the industry, Pinch Analysis is 
 
 The follow table shows the temperature of the process streams in a chemical plant to be evaluated.
 |Stream no.|Type|Supply temperature (Ts),°C|Target temperature (Tt), °C|Heat transfer (∆H), MW|Temperature difference (∆T), °C| Heat capacity (CP), MW.K-1|
+|---|---|---|---|---|---|---|
