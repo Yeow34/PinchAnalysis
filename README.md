@@ -41,3 +41,7 @@ Figrue 2:Locating the minimum cost require
 
 From the figure, it is understood that only at a certain minimum temperature difference, the lowest amount of total cost required would exist. In this case, the minimum temperature difference at the optimum would be 40°C. By substituting the minimum temperature difference at 10 and 20°C, the point for total cost would shift to the left, which is on an upward trend, simply meaning that higher total cost would be required if both of these minimum temperature differences are to be selected. This is because even though the cold utility required would not alter much as calculated previously, the capital cost would increase when the minimum temperature difference is reduced as shown in Figure 2 due to the requirement for a larger surface area for heat exchange. Therefore, through the contemplate numerical analysis as well as graphical explanation, the statement stating that the optimum point existed at minimum temperature difference of 40°C solidified.
 
+#Reference
+Castier, M. (2007). Pinch Analysis Revisited: New Rules for Utility Targeting. Applied Thermal Engineering, 27 (8-9), pp. 1653-1656. https://www.sciencedirect.com/science/article/abs/pii/S135943110600336X
+
+Towler G, & Sinnott R. (2013). Chemical Engineering Design: Principles, Practice and Economics of Plant and Process Design (2nd edition). Boston: Elsevier/
