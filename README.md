@@ -4,6 +4,7 @@ Chemical plants usually comprise several process streams connected to each other
 This is where Pinch Analysis comes in place. In the industry, Pinch Analysis is often applied to evaluate and enhance the energy system of the chemical plants. Pinch Analysis balances the efficiency of the energy system and total cost related to heat exchange that needs to be incurred to the chemical plants through thermodynamic-based algorithm.
 
 The follow table shows the temperature of the process streams in a chemical plant to be evaluated.
+
 Table 1: Process streams data
 |Stream no.|Type|Supply temperature (Ts),°C|Target temperature (Tt), °C|Heat transfer (∆H), MW|Temperature difference (∆T), °C| Heat capacity (CP), MW.K-1|
 |---|---|---|---|---|---|---|
@@ -15,6 +16,7 @@ Table 1: Process streams data
 |6|Hot|150|100|-55|-50|1.1000|
 
 By using the Python Library, PINA, the results for minimum temperature difference were computed and shown in the following table.
+
 Table 2: Result
 |Minimum temperature difference (°C)|10|20|40|
 |---|---|---|---|
