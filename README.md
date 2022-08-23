@@ -15,6 +15,7 @@ The follow table shows the temperature of the process streams in a chemical plan
 
 By using the Python Library, PINA, the results for minimum temperature difference were computed and shown in the following table.
 |Minimum temperature difference (°C)|10|20|40|
+|---|---|---|---|
 |Heating demand (MW)|144.0|144.0|144.0|
 |Cooling demand (MW)|148.5|148.5|148.5|
 |Hot utility target (MW)|0.0|0.0|0.0|
